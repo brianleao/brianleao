@@ -1,6 +1,6 @@
-## Olá, eu sou Brian Leão!
+## Bem-vindos! Eu sou o Brian!
 
-- 🌱 Estou estudando tecnologias Front-End
+- 💻 Estou estudando tecnologias Front-End
 
 <div align="center">
   <a href="https://github.com/brianleao">
