@@ -1,4 +1,4 @@
-## Bem-vindos!
+## Oi, eu sou o Brian.
 
 - 💻 Estou estudando tecnologias Front-End
 
