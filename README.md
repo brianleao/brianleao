@@ -1,6 +1,6 @@
 ## Bem-vindo(a)! Eu sou o Brian.
 
-- 💻 Estou estudando tecnologias Front-End
+- 💻 Estou estudando tecnologias para desenvolvimento Full Stack.
 
 <div align="center">
   <a href="https://github.com/brianleao">
